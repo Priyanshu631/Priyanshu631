@@ -9,7 +9,10 @@
   
 </div>
 
-<div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="./assets/SineWaveComp.gif"></div>
+<div align="center"> <img height="450" width="800" alt="GIF" align="center" src="./assets/SineWaveComp.gif"></div>
+
+
+<h3 align="center" textColor=white>---------------------------------------------------------------</h3>
 
 <p align="center">
   <a href="https://contra.com/p/QsZFQOWE-infographicsposter-design-sample-project?r=priyanshu_ranjan_1x1ovzd2" target="_blank">
@@ -23,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 About Me:  
-<img align="right" alt="Frieren" width="400" src="./assets/F1.gif">
+<img align="right" alt="Frieren" height="360" width="540" src="./assets/F1.gif">
 
 - 🌱 I’m Currently Trying Out **ML Fundamentals, NNs, Computer Vision, DevOps & Core Design Principles** 
 - 💬 Drop Your Queries On **DSA, Python, JS, React-Native and Web-Dev.**
