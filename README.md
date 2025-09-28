@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Priyanshu631&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-<h1 align="center">Hi There! 👋 I'm Priyanshu 🦝</h1>
+<h1 align="center">Hi There! 👋<br>I'm Priyanshu 🦝</h1>
  
 <img height="540" width="960" alt="GIF" src="./assets/F2.gif">
 
