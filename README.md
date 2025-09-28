@@ -8,9 +8,11 @@
 <h1 align="center">Hi There! 👋 I'm Priyanshu 🦝</h1>
   
 </div>
-
+<!--
 <div align="center"> <img height="450" width="800" alt="GIF" align="center" src="./assets/SineWaveComp.gif"></div>
+-->
 
+<div align="center"> <img height="540" width="960" alt="GIF" align="center" src="./assets/F2.gif"></div>
 
 <h3 align="center" textColor=white>---------------------------------------------------------------</h3>
 
